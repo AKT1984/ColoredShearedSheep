@@ -1,0 +1,9 @@
+[
+  {
+    "modid": "sheepcolor",
+    "name": "Colored Sheared Sheep",
+    "description": "Sheared sheep are colored, kind of like in Bedrock Edition",
+    "version": "1.0",
+    "mcversion": "1.6.4"
+  }
+]
